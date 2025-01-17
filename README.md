@@ -1,6 +1,6 @@
 ## About Personal Finance Management System
 
-Personal finance is a single-user financial records keeping system. It helps you control your overspending habits. At first, you have to create an estimated spending amount called a budget for a definite term. After that, it helps you keep track of how much you've earned and spent within the budget. You can get detailed reports via GUI charts powered by Chart js.
+Personal finance is a single-user financial records keeping system. It helps you control your overspending habits. First, you have to create an estimated spending amount called a budget for a definite term. After that, it helps you keep track of how much you've earned and spent within the budget. You can get detailed reports via GUI charts powered by Chart js.
 
 ## Dashboard
 
